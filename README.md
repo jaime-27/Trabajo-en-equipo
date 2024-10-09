@@ -1,2 +1,2 @@
 # Trabajo-en-equipo
-Autor del proyecto: Victor J. Vergel
+Autor del proyecto: Jaime Martinez Pascual
